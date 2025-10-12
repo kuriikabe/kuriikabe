@@ -19,9 +19,6 @@ Navigating and contributing to **Open Source projects**.
 - **[X (formerly Twitter)](https://x.com/JamairahCoding):** @JamairahCoding  
 - **TikTok:** [elpsykongr00](https://www.tiktok.com/@elpsykongr00) (Content coming soon!)  
 
-## 😄 Pronouns:
-**She / Her**
-
 ## ⚡ Fun fact:
 I have a turtle 🐢 named **Limon**!
 
