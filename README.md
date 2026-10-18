@@ -1,33 +1,28 @@
-# About Me
+# Jamairah Jones
 
-## 🔭 I’m currently working on:
-A **mini adventure game** with multiple endings in Python. 🕹️
+**Technical Product Support | Building toward Security Engineering**
 
-## 🌱 I’m currently learning:
-C Programming! 🔧
+I bring hands-on technical product support experience at ClassLink, working with SSO, directory synchronization, rostering, and authentication troubleshooting. My career goal is Security Engineering, and I’m building on that experience through systems and networking study and practical programming projects.
 
-## 👯 I’m looking to collaborate on:
-A variety of **Open Source repositories**. 🤝
+## Practical experience
 
-## 🤔 I’m looking for help with:
-Navigating and contributing to **Open Source projects**.
+- Troubleshoot sign-in, access, SSO, directory sync, and rostering issues.
+- Document reported behavior and troubleshooting steps, communicate with customers, and coordinate escalations.
+- Build projects with C++ and Python, with additional React/Vite development experience.
 
-## 💬 Ask me about:
-**C++** — It’s my favorite programming language! 💻
+## Security learning & exam achievement
 
-## 📫 How to reach me:
-- **[X (formerly Twitter)](https://x.com/JamairahCoding):** @JamairahCoding  
-- **TikTok:** [elpsykongr00](https://www.tiktok.com/@elpsykongr00) (Content coming soon!)  
+- **Passed the ISC2 Certified in Cybersecurity (CC) exam — October 14, 2026.**
+- Completed introductory Linux, Windows, Active Directory, and networking studies through TryHackMe.
+- Continuing to build skills in Nmap and packet analysis with Wireshark and tcpdump.
 
-## ⚡ Fun fact:
-I have a turtle 🐢 named **Limon**!
+## Selected projects
 
----
+| Project | What it demonstrates |
+| --- | --- |
+| [PIN allowlist checker](https://github.com/kuriikabe/password-checker-basic) | A C++ learning exercise that checks an integer PIN against a predefined allowlist using `std::vector` and `std::find`. |
+| [Linux coursework](https://github.com/kuriikabe/cis-106) | Foundational shell commands, a basic Bash script, and technical notes. |
+| [KafkaBot](https://github.com/kuriikabe/KafkaBot) | A Python Discord bot exploring asynchronous event handling, message commands, and basic error handling. |
+| Veinpath Engine — private, in development | A custom visual novel engine for Fate/Conduction, built with React/Vite, with browser-persisted saves and asset caching. |
 
-### Badges
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
----
-
-### Widget
-[ElfSight Widget](https://de31f6e9a08d4013ad203e0e90573af8.elf.site)
+Interested in junior security, technical support, and adjacent engineering opportunities.
