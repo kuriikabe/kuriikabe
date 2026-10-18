@@ -23,6 +23,5 @@ I bring hands-on technical product support experience at ClassLink, working with
 | [PIN allowlist checker](https://github.com/kuriikabe/password-checker-basic) | A C++ learning exercise that checks an integer PIN against a predefined allowlist using `std::vector` and `std::find`. |
 | [Linux coursework](https://github.com/kuriikabe/cis-106) | Foundational shell commands, a basic Bash script, and technical notes. |
 | [KafkaBot](https://github.com/kuriikabe/KafkaBot) | A Python Discord bot exploring asynchronous event handling, message commands, and basic error handling. |
-| Veinpath Engine — private, in development | A custom visual novel engine for Fate/Conduction, built with React/Vite, with browser-persisted saves and asset caching. |
 
 Interested in junior security, technical support, and adjacent engineering opportunities.
